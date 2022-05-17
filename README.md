@@ -18,3 +18,8 @@ device可以選擇使用第幾張GPU
 Word Segmentation斷詞是訓練中文詞嵌入模型重要的前處理
 
 無論簡體或繁體都需要
+
+------------------------------------------------------------------------
+# 如何訓練詞向量
+
+如何訓練語言模型:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
